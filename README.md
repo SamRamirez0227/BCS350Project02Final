@@ -59,6 +59,7 @@ BrainByte/
 │
 ├── assets/
 │   └── style.css
+│   └── logo.webp
 │
 ├── data/
 │   └── questions.json
